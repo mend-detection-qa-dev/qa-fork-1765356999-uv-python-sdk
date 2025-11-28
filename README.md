@@ -1,3 +1,18 @@
+
+### 9. modelcontextprotocol/python-sdk
+- **URL:** https://github.com/modelcontextprotocol/python-sdk
+- **Stars:** Unknown (official SDK)
+- **Type:** SDK / Library
+- **UV Version:** 0.9.x
+- **Last Updated:** Active 2024-2025
+- **Main Dependencies:** SDK-specific (50+ packages)
+- **Key Features:**
+  - Server and client libraries
+  - `uv run mcp install` command
+  - Environment variable handling
+- **Why Analyzed:** SDK development with uv, optional dependencies pattern
+
+
 # MCP Python SDK
 
 <div align="center">
